@@ -17,7 +17,7 @@ public class Ball : MonoBehaviour {
 	AudioSource myAudioSource;
 	Rigidbody2D myRigidBody2D;
 
-	// Use this for initializationnnnn
+	// Use this for initializationnnnnn
 	void Start () {
 		paddleToBallVector = transform.position - paddle1.transform.position;
 		myAudioSource = GetComponent<AudioSource>();
