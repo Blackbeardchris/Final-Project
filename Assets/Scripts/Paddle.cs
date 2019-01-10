@@ -12,27 +12,47 @@ public class Paddle : MonoBehaviour {
 	//cache refs
 	GameStatus theGameStatus;
 	Ball theBall;
+	
+	
 
 	// Use this for initialization
 	void Start () {
+		
 		theGameStatus = FindObjectOfType<GameStatus>();
 		theBall = FindObjectOfType<Ball>();
 	}
 	
 	// Update is called once per frame
-	void Update () {
-		Vector2 paddlePos = new Vector2 (transform.position.x, transform.position.y);
-		paddlePos.x = Mathf.Clamp(GetXPos() , minX , maxX);
-		transform.position = paddlePos;
-		//above transforms/moves paddle
-	}
 
-	private float GetXPos() {
-		if (theGameStatus.IsAutoPlayEnabled()) {
-			return theBall.transform.position.x;
-		}
-		else {
-			return Input.mousePosition.x / Screen.width * screenWidthInUnits; 
-		}
-	}
+	public float MovementSpeed;
+ 
+void Update()
+{
+   Vector3 direction = CalculateDirection();
+   transform.Translate(direction * MovementSpeed * Time.deltaTime);
 }
+	public Vector3 CalculateDirection()
+{
+   Vector3 direction = Vector3.zero;
+   if (Input.GetKey(KeyCode.W))
+   {
+     direction.y += 1.0f;
+   }
+   if (Input.GetKey(KeyCode.A))
+   {
+     direction.x -= 1.0f;
+   }
+   if (Input.GetKey(KeyCode.S))
+   {
+     direction.y -= 1.0f;
+   }
+   if (Input.GetKey(KeyCode.D))
+   {
+     direction.x += 1.0f;
+   }
+   return direction.normalized;
+}
+
+
+}
+//just to push

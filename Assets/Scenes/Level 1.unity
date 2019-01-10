@@ -120,7 +120,13 @@ GameObject:
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
+  - component: {fileID: 430721734}
+  - component: {fileID: 430721733}
+  - component: {fileID: 430721735}
+=======
   - component: {fileID: 70748293}
+>>>>>>> 420d39fd70674f321887b59378d710cd31318738
   m_Layer: 0
   m_Name: Blocks
   m_TagString: Untagged
@@ -135,7 +141,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 70748292}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD
+  m_LocalPosition: {x: 6.33, y: 1.25, z: 0}
+=======
   m_LocalPosition: {x: 7.0837417, y: 5.938398, z: 6.681302}
+>>>>>>> 420d39fd70674f321887b59378d710cd31318738
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 656930841}
@@ -147,6 +157,23 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+--- !u!114 &430721735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 430721732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beb3740e730f74fc99380b0fb2497759, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  minX: 1
+  maxX: 16.63
+  screenWidthInUnits: 16.63
+  MovementSpeed: 15
+=======
 --- !u!1001 &405811243
 Prefab:
   m_ObjectHideFlags: 0
@@ -267,6 +294,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4965443788895294, guid: 8f270dcc2d0e7b24d9c6ecba0c6ae7bc,
     type: 2}
   m_PrefabInternal: {fileID: 656930840}
+>>>>>>> 420d39fd70674f321887b59378d710cd31318738
 --- !u!1001 &662703965
 Prefab:
   m_ObjectHideFlags: 0
