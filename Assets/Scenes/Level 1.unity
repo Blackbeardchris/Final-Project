@@ -132,7 +132,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -295,6 +295,26 @@ Prefab:
     - {fileID: 60716341025944564, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
   m_IsPrefabAsset: 0
+--- !u!1 &1096153753 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1339402221733540, guid: 961ff06663c484d03a055c2bf8a8a9cf,
+    type: 2}
+  m_PrefabInternal: {fileID: 1742479428}
+--- !u!114 &1096153754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1096153753}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29907d74a6aaf463a8c922fc69e495f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  minX: 1
+  maxX: 16.63
+  screenWidthInUnits: 16.63
+  MovementSpeed: 15
 --- !u!1001 &1393755444
 Prefab:
   m_ObjectHideFlags: 0
@@ -504,7 +524,8 @@ Prefab:
       propertyPath: m_Name
       value: Paddle (1)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 114414184447344874, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
   m_IsPrefabAsset: 0
 --- !u!1001 &1802658025
