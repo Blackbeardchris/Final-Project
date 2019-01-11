@@ -375,7 +375,7 @@ GameObject:
   - component: {fileID: 1332543806}
   - component: {fileID: 1332543805}
   m_Layer: 0
-  m_Name: horizontal-line
+  m_Name: Stage Line
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
