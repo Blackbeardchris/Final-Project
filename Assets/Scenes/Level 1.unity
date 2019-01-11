@@ -236,6 +236,10 @@ Prefab:
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 1339402221733540, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
+      propertyPath: m_Name
+      value: Person 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
   m_IsPrefabAsset: 0
@@ -599,7 +603,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1339402221733540, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
       propertyPath: m_Name
-      value: Paddle (1)
+      value: Person 2
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 114414184447344874, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
