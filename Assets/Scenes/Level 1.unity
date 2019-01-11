@@ -113,56 +113,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &75627868 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1339402221733540, guid: 961ff06663c484d03a055c2bf8a8a9cf,
-    type: 2}
-  m_PrefabInternal: {fileID: 702819085}
---- !u!50 &75627869
-Rigidbody2D:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 75627868}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
---- !u!61 &75627870
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 75627868}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.4, y: 2.4}
-    newSize: {x: 2.56, y: 0.64}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 2.4, y: 2.4}
-  m_EdgeRadius: 0
 --- !u!1001 &275977161
 Prefab:
   m_ObjectHideFlags: 0
@@ -286,15 +236,25 @@ Prefab:
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 114414184447344874, guid: 961ff06663c484d03a055c2bf8a8a9cf,
-        type: 2}
-      propertyPath: MovementSpeed
-      value: 15
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 60716341025944564, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
   m_IsPrefabAsset: 0
+--- !u!1 &1169402436 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1994603810674368, guid: dfce5a42cfe5b4823942d62a0b7fd6dc,
+    type: 2}
+  m_PrefabInternal: {fileID: 1535285032}
+--- !u!114 &1169402438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1169402436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1067ea22b28ef46d0a860f64f3a6fdd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1393755444
 Prefab:
   m_ObjectHideFlags: 0
@@ -461,6 +421,22 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dfce5a42cfe5b4823942d62a0b7fd6dc, type: 2}
   m_IsPrefabAsset: 0
+--- !u!1 &1735644965 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1640175839974348, guid: dfce5a42cfe5b4823942d62a0b7fd6dc,
+    type: 2}
+  m_PrefabInternal: {fileID: 1535285032}
+--- !u!114 &1735644967
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1735644965}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1067ea22b28ef46d0a860f64f3a6fdd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1742479428
 Prefab:
   m_ObjectHideFlags: 0
@@ -664,3 +640,19 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9349dddb50be4b4a97150746172d430, type: 2}
   m_IsPrefabAsset: 0
+--- !u!1 &2112513462 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1321065074374264, guid: dfce5a42cfe5b4823942d62a0b7fd6dc,
+    type: 2}
+  m_PrefabInternal: {fileID: 1535285032}
+--- !u!114 &2112513464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2112513462}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1067ea22b28ef46d0a860f64f3a6fdd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
