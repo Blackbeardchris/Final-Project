@@ -123,12 +123,16 @@ GameObject:
   - component: {fileID: 163654520}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 163654521}
 =======
 >>>>>>> 4606350... refactored start screen
 =======
   - component: {fileID: 163654521}
 >>>>>>> 27a1a44... added BGM
+=======
+  - component: {fileID: 163654521}
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
   m_Layer: 0
   m_Name: Background Music
   m_TagString: Untagged
@@ -151,8 +155,11 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 27a1a44... added BGM
+=======
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
 --- !u!82 &163654521
 AudioSource:
   m_ObjectHideFlags: 0
@@ -249,10 +256,13 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4606350... refactored start screen
 =======
 >>>>>>> 27a1a44... added BGM
+=======
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
 --- !u!1 &188731872
 GameObject:
   m_ObjectHideFlags: 0

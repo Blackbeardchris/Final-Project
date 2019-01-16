@@ -19,6 +19,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 43
     width: 1920
@@ -43,10 +44,16 @@ MonoBehaviour:
 >>>>>>> dfdbcee... stage fix
     width: 1789
 >>>>>>> abae2ab... bvgv
+=======
+    x: 259
+    y: 57
+    width: 1789
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
     height: 1031
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 7}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 9704550... fixed colliders
@@ -124,6 +131,11 @@ MonoBehaviour:
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &3
+=======
+  m_MinSize: {x: 950, y: 300}
+  m_MaxSize: {x: 10000, y: 10000}
+--- !u!114 &2
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -132,11 +144,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Script: {fileID: 12011, guid: 0000000000000000e000000000000000, type: 0}
 >>>>>>> 820711d... deleted image
 =======
   m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
 >>>>>>> 9704550... fixed colliders
+=======
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
   m_Name: 
   m_EditorClassIdentifier: 
   m_Children:
@@ -145,6 +161,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 487
     y: 0
     width: 671
@@ -152,11 +169,21 @@ MonoBehaviour:
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 16}
+=======
+    x: 825
+    y: 0
+    width: 594
+    height: 595
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 18}
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
   m_Panes:
   - {fileID: 16}
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &3
+<<<<<<< HEAD
 =======
     x: 0
     y: 30
@@ -192,6 +219,8 @@ MonoBehaviour:
 >>>>>>> ca0a1a5... sf
 --- !u!114 &4
 >>>>>>> 820711d... deleted image
+=======
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -204,6 +233,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
   m_Children:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - {fileID: 11}
   - {fileID: 2}
@@ -223,10 +253,15 @@ MonoBehaviour:
   - {fileID: 7}
   - {fileID: 8}
   - {fileID: 9}
+=======
+  - {fileID: 10}
+  - {fileID: 4}
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
   m_Position:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
     width: 2048
     height: 994
   m_MinSize: {x: 917, y: 442}
@@ -264,6 +299,15 @@ MonoBehaviour:
 >>>>>>> 283e90f... fwerer
 --- !u!114 &5
 >>>>>>> 820711d... deleted image
+=======
+    width: 1789
+    height: 981
+  m_MinSize: {x: 887, y: 342}
+  m_MaxSize: {x: 16012, y: 8042}
+  vertical: 0
+  controlID: 9
+--- !u!114 &4
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -277,6 +321,7 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -308,10 +353,20 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
+=======
+    x: 1419
+    y: 0
+    width: 370
+    height: 981
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 15}
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
   m_Panes:
   - {fileID: 16}
   m_Selected: 0
   m_LastSelected: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 9704550... fixed colliders
 =======
@@ -324,6 +379,9 @@ MonoBehaviour:
 >>>>>>> dfdbcee... stage fix
 --- !u!114 &6
 >>>>>>> 820711d... deleted image
+=======
+--- !u!114 &5
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -331,6 +389,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -350,10 +409,17 @@ MonoBehaviour:
   - {fileID: 10}
   - {fileID: 11}
 >>>>>>> 820711d... deleted image
+=======
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
   m_Position:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
     width: 1920
     height: 997
@@ -373,6 +439,25 @@ MonoBehaviour:
   m_Script: {fileID: 12011, guid: 0000000000000000e000000000000000, type: 0}
 >>>>>>> f52e8c9... fixing and adding what we lost
 =======
+=======
+    width: 246
+    height: 595
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 16}
+  m_Panes:
+  - {fileID: 16}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &6
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
 >>>>>>> dfdbcee... stage fix
   m_Name: 
@@ -390,6 +475,7 @@ MonoBehaviour:
   m_Panes:
   - {fileID: 14}
   - {fileID: 19}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Selected: 0
   m_LastSelected: 1
@@ -409,11 +495,16 @@ MonoBehaviour:
 =======
 >>>>>>> dfdbcee... stage fix
 =======
+=======
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
   m_Selected: 1
   m_LastSelected: 0
 >>>>>>> ca0a1a5... sf
 --- !u!114 &7
+<<<<<<< HEAD
 >>>>>>> 820711d... deleted image
+=======
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -421,6 +512,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -434,6 +526,9 @@ MonoBehaviour:
 =======
   m_Script: {fileID: 12008, guid: 0000000000000000e000000000000000, type: 0}
 >>>>>>> dfdbcee... stage fix
+=======
+  m_Script: {fileID: 12008, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
   m_Name: 
   m_EditorClassIdentifier: 
   m_Children:
@@ -442,6 +537,7 @@ MonoBehaviour:
   - {fileID: 9}
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     x: 0
@@ -475,6 +571,11 @@ MonoBehaviour:
 =======
     width: 1789
 >>>>>>> abae2ab... bvgv
+=======
+    x: 0
+    y: 0
+    width: 1789
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
     height: 1031
   m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -499,7 +600,10 @@ MonoBehaviour:
 =======
 >>>>>>> dfdbcee... stage fix
 --- !u!114 &8
+<<<<<<< HEAD
 >>>>>>> 820711d... deleted image
+=======
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -507,6 +611,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -520,6 +625,9 @@ MonoBehaviour:
 =======
   m_Script: {fileID: 12011, guid: 0000000000000000e000000000000000, type: 0}
 >>>>>>> dfdbcee... stage fix
+=======
+  m_Script: {fileID: 12011, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
@@ -547,6 +655,7 @@ MonoBehaviour:
     width: 1789
     height: 30
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     y: 792
     width: 1262
@@ -554,11 +663,16 @@ MonoBehaviour:
 >>>>>>> f52e8c9... fixing and adding what we lost
 =======
 >>>>>>> dfdbcee... stage fix
+=======
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
   m_LastLoadedLayoutName: 
 --- !u!114 &9
+<<<<<<< HEAD
 >>>>>>> 820711d... deleted image
+=======
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -580,6 +694,7 @@ MonoBehaviour:
 =======
 >>>>>>> 283e90f... fwerer
     x: 0
+<<<<<<< HEAD
     y: 977
     width: 1920
     height: 20
@@ -603,6 +718,8 @@ MonoBehaviour:
 =======
 >>>>>>> dfdbcee... stage fix
     x: 0
+=======
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
     y: 1011
     width: 1789
     height: 20
@@ -646,6 +763,7 @@ MonoBehaviour:
 <<<<<<< HEAD
     x: 307
     y: 0
+<<<<<<< HEAD
     width: 1158
     height: 947
   m_MinSize: {x: 408, y: 492}
@@ -655,6 +773,15 @@ MonoBehaviour:
 =======
 >>>>>>> dfdbcee... stage fix
 --- !u!114 &10
+=======
+    width: 1419
+    height: 981
+  m_MinSize: {x: 610, y: 342}
+  m_MaxSize: {x: 12010, y: 8042}
+  vertical: 1
+  controlID: 90
+--- !u!114 &11
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -673,6 +800,7 @@ MonoBehaviour:
 <<<<<<< HEAD
     x: 1465
     y: 0
+<<<<<<< HEAD
     width: 455
     height: 947
   m_MinSize: {x: 277, y: 71}
@@ -683,6 +811,15 @@ MonoBehaviour:
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &11
+=======
+    width: 1419
+    height: 595
+  m_MinSize: {x: 610, y: 221}
+  m_MaxSize: {x: 12010, y: 4021}
+  vertical: 0
+  controlID: 91
+--- !u!114 &12
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -696,6 +833,7 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 963
     y: 0
 <<<<<<< HEAD
@@ -837,11 +975,20 @@ MonoBehaviour:
     height: 481
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
+=======
+    x: 246
+    y: 0
+    width: 579
+    height: 595
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
   m_Selected: 0
   m_LastSelected: 0
+<<<<<<< HEAD
 >>>>>>> f52e8c9... fixing and adding what we lost
 =======
 >>>>>>> dfdbcee... stage fix
@@ -853,6 +1000,9 @@ MonoBehaviour:
 >>>>>>> ca0a1a5... sf
 --- !u!114 &12
 >>>>>>> 820711d... deleted image
+=======
+--- !u!114 &13
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -860,6 +1010,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
+<<<<<<< HEAD
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -1012,6 +1163,20 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> dfdbcee... stage fix
+=======
+  m_Script: {fileID: 12111, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 400, y: 100}
+  m_MaxSize: {x: 2048, y: 2048}
+  m_TitleContent:
+    m_Text: Asset Store
+    m_Image: {fileID: 357073275683767465, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
     x: 468
     y: 181
     width: 973
@@ -1029,6 +1194,7 @@ MonoBehaviour:
     width: 200
     height: 741
   m_PersistentViewDataDictionary: {fileID: 0}
+<<<<<<< HEAD
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 96f0ffff
@@ -1061,6 +1227,8 @@ MonoBehaviour:
 =======
   m_PersistentViewDataDictionary: {fileID: 0}
 >>>>>>> dfdbcee... stage fix
+=======
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
 --- !u!114 &14
 >>>>>>> 820711d... deleted image
 MonoBehaviour:
@@ -1082,6 +1250,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1114,11 +1283,16 @@ MonoBehaviour:
     height: 260
 >>>>>>> f52e8c9... fixing and adding what we lost
 =======
+=======
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
     x: 259
     y: 701
     width: 1417
     height: 365
+<<<<<<< HEAD
 >>>>>>> dfdbcee... stage fix
+=======
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -1132,6 +1306,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1165,10 +1340,13 @@ MonoBehaviour:
   m_StartGridSize: 64
   m_LastFolders:
 =======
+=======
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
     - Assets/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
+<<<<<<< HEAD
 >>>>>>> 283e90f... fwerer
   - Assets/Prefabs
   m_LastFoldersGridSize: -1
@@ -1268,6 +1446,18 @@ MonoBehaviour:
     m_LastClickedID: 10984
     m_ExpandedIDs: 00000000b2290000b82900002c2a0000562c000000ca9a3b
 >>>>>>> ca0a1a5... sf
+=======
+  - Assets/Prefabs
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: /Users/jamesm12/Desktop/Final-Project
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 24}
+    m_SelectedIDs: e82a0000
+    m_LastClickedID: 10984
+    m_ExpandedIDs: 00000000b2290000b82900002c2a0000562c000000ca9a3b
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1295,6 +1485,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1332,6 +1523,9 @@ MonoBehaviour:
 =======
     m_ExpandedIDs: 00000000b2290000b82900002c2a0000562c0000
 >>>>>>> ca0a1a5... sf
+=======
+    m_ExpandedIDs: 00000000b2290000b82900002c2a0000562c0000
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1363,6 +1557,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000442c0000
 =======
@@ -1382,6 +1577,10 @@ MonoBehaviour:
 >>>>>>> ca0a1a5... sf
     m_ExpandedInstanceIDs: c6230000442c0000
 >>>>>>> dfdbcee... stage fix
+=======
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: c6230000442c0000
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1411,6 +1610,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_DirectoriesAreaWidth: 110
 --- !u!114 &16
 =======
@@ -1422,6 +1622,10 @@ MonoBehaviour:
 >>>>>>> abae2ab... bvgv
 --- !u!114 &15
 >>>>>>> 820711d... deleted image
+=======
+  m_DirectoriesAreaWidth: 255
+--- !u!114 &15
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1582,6 +1786,7 @@ MonoBehaviour:
 --- !u!114 &17
 =======
 --- !u!114 &16
+<<<<<<< HEAD
 >>>>>>> 820711d... deleted image
 =======
 =======
@@ -1594,6 +1799,30 @@ MonoBehaviour:
 >>>>>>> dfdbcee... stage fix
     width: 244
 >>>>>>> abae2ab... bvgv
+=======
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Hierarchy
+    m_Image: {fileID: -590624980919486359, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 259
+    y: 106
+    width: 244
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
     height: 574
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
@@ -1721,6 +1950,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 309
     y: 92
     width: 483
@@ -1764,6 +1994,12 @@ MonoBehaviour:
 >>>>>>> f52e8c9... fixing and adding what we lost
 =======
 >>>>>>> dfdbcee... stage fix
+=======
+    x: 507
+    y: 106
+    width: 575
+    height: 574
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
   lastFramingTime: 4457.224094986916
@@ -1771,6 +2007,7 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1816,6 +2053,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 6.078654, y: 6.363431, z: 0.58904123}
 >>>>>>> dfdbcee... stage fix
+=======
+    m_Target: {x: 6.078654, y: 6.363431, z: 0.58904123}
+    speed: 2
+    m_Value: {x: 6.078654, y: 6.363431, z: 0.58904123}
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1847,6 +2089,7 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1886,6 +2129,11 @@ MonoBehaviour:
     speed: 2
     m_Value: 13.202333
 >>>>>>> dfdbcee... stage fix
+=======
+    m_Target: 13.202333
+    speed: 2
+    m_Value: 13.202333
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -2002,7 +2250,10 @@ MonoBehaviour:
     height: 365
   m_PersistentViewDataDictionary: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> f52e8c9... fixing and adding what we lost
 =======
 >>>>>>> dfdbcee... stage fix
+=======
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0

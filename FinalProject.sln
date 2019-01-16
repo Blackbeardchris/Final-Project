@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
@@ -23,6 +24,8 @@ Global
 	EndGlobalSection
 EndGlobal
 =======
+=======
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
@@ -46,4 +49,7 @@ Global
 		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
+<<<<<<< HEAD
 >>>>>>> b33b18c... added p1
+=======
+>>>>>>> ca0a1a5d318145487a6ddf80730a671f52220bc0
