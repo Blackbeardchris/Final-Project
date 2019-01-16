@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Paddle : MonoBehaviour {
+public class Player2 : MonoBehaviour {
 
 	// configuration parameters
 	[SerializeField] float minX = 1f;
@@ -34,19 +34,19 @@ void Update()
 	public Vector3 CalculateDirection()
 {
    Vector3 direction = Vector3.zero;
-   if (Input.GetKey(KeyCode.W))
+   if (Input.GetKey(KeyCode.UpArrow))
    {
      direction.y += 1.0f;
    }
-   if (Input.GetKey(KeyCode.A))
+   if (Input.GetKey(KeyCode.LeftArrow))
    {
      direction.x -= 1.0f;
    }
-   if (Input.GetKey(KeyCode.S))
+   if (Input.GetKey(KeyCode.DownArrow))
    {
      direction.y -= 1.0f;
    }
-   if (Input.GetKey(KeyCode.D))
+   if (Input.GetKey(KeyCode.RightArrow))
    {
      direction.x += 1.0f;
    }
