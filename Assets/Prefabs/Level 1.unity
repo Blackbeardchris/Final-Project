@@ -571,11 +571,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4891376561050214, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 11.297974
+      value: 11.248
       objectReference: {fileID: 0}
     - target: {fileID: 4891376561050214, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 4.35958
+      value: 4.376
       objectReference: {fileID: 0}
     - target: {fileID: 4891376561050214, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
       propertyPath: m_LocalPosition.z
@@ -604,6 +604,29 @@ Prefab:
     - target: {fileID: 1339402221733540, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
       propertyPath: m_Name
       value: Person 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4891376561050214, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0.976
+      objectReference: {fileID: 0}
+    - target: {fileID: 4891376561050214, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 1.011
+      objectReference: {fileID: 0}
+    - target: {fileID: 212851707304995148, guid: 961ff06663c484d03a055c2bf8a8a9cf,
+        type: 2}
+      propertyPath: m_Color.r
+      value: 0.032707367
+      objectReference: {fileID: 0}
+    - target: {fileID: 212851707304995148, guid: 961ff06663c484d03a055c2bf8a8a9cf,
+        type: 2}
+      propertyPath: m_Color.g
+      value: 0.45690095
+      objectReference: {fileID: 0}
+    - target: {fileID: 212851707304995148, guid: 961ff06663c484d03a055c2bf8a8a9cf,
+        type: 2}
+      propertyPath: m_Color.b
+      value: 0.46226418
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 114414184447344874, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
