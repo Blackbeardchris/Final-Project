@@ -883,10 +883,95 @@ Prefab:
 Transform:
   m_CorrespondingSourceObject: {fileID: 4965443788895294, guid: 8f270dcc2d0e7b24d9c6ecba0c6ae7bc,
     type: 2}
+<<<<<<< HEAD
   m_PrefabInternal: {fileID: 1518805564}
 --- !u!1001 &1924467905
 >>>>>>> 420d39f... worked on level1
 =======
+=======
+  m_PrefabInternal: {fileID: 1535285032}
+--- !u!114 &1735644967
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1735644965}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1067ea22b28ef46d0a860f64f3a6fdd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &1742479428
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4891376561050214, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 11.248
+      objectReference: {fileID: 0}
+    - target: {fileID: 4891376561050214, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 4.376
+      objectReference: {fileID: 0}
+    - target: {fileID: 4891376561050214, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4891376561050214, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4891376561050214, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4891376561050214, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4891376561050214, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4891376561050214, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1339402221733540, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
+      propertyPath: m_Name
+      value: Person 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4891376561050214, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0.976
+      objectReference: {fileID: 0}
+    - target: {fileID: 4891376561050214, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 1.011
+      objectReference: {fileID: 0}
+    - target: {fileID: 212851707304995148, guid: 961ff06663c484d03a055c2bf8a8a9cf,
+        type: 2}
+      propertyPath: m_Color.r
+      value: 0.032707367
+      objectReference: {fileID: 0}
+    - target: {fileID: 212851707304995148, guid: 961ff06663c484d03a055c2bf8a8a9cf,
+        type: 2}
+      propertyPath: m_Color.g
+      value: 0.45690095
+      objectReference: {fileID: 0}
+    - target: {fileID: 212851707304995148, guid: 961ff06663c484d03a055c2bf8a8a9cf,
+        type: 2}
+      propertyPath: m_Color.b
+      value: 0.46226418
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 114414184447344874, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
+  m_SourcePrefab: {fileID: 100100000, guid: 961ff06663c484d03a055c2bf8a8a9cf, type: 2}
+  m_IsPrefabAsset: 0
+>>>>>>> 1ead113... yeterewr
 --- !u!1001 &1802658025
 >>>>>>> 1cd1462... fixed stuff
 Prefab:
