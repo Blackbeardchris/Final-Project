@@ -58,6 +58,7 @@
      <Compile Include="Assets\Scripts\GameStatus.cs" />
      <Compile Include="Assets\Scripts\Level.cs" />
      <Compile Include="Assets\Scripts\LoseCollider.cs" />
+     <Compile Include="Assets\Scripts\Paddle.cs" />
      <Compile Include="Assets\Scripts\Player1.cs" />
      <Compile Include="Assets\Scripts\Player2.cs" />
      <Compile Include="Assets\Scripts\SceneLoader.cs" />
