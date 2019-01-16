@@ -10,10 +10,30 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     <ProjectGuid>{EABD3674-C11A-A7D2-F2A9-562A540B0759}</ProjectGuid>
 =======
     <ProjectGuid>{E1456745-ED92-4EB6-8905-E64DC1E47277}</ProjectGuid>
 >>>>>>> b33b18c... added p1
+=======
+    <ProjectGuid>{EABD3674-C11A-A7D2-F2A9-562A540B0759}</ProjectGuid>
+>>>>>>> 4606350... refactored start screen
+=======
+    <ProjectGuid>{E1456745-ED92-4EB6-8905-E64DC1E47277}</ProjectGuid>
+>>>>>>> 28ca959... test commit
+=======
+    <ProjectGuid>{EABD3674-C11A-A7D2-F2A9-562A540B0759}</ProjectGuid>
+>>>>>>> 1cd1462... fixed stuff
+=======
+    <ProjectGuid>{E1456745-ED92-4EB6-8905-E64DC1E47277}</ProjectGuid>
+>>>>>>> ff9463f... dsfds
+=======
+    <ProjectGuid>{EABD3674-C11A-A7D2-F2A9-562A540B0759}</ProjectGuid>
+>>>>>>> 283e90f... fwerer
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -84,23 +104,63 @@
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
  <Reference Include="UnityEditor.StandardEvents">
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
  <HintPath>/Users/jamesm12/Desktop/Final-Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
 =======
  <HintPath>/Users/andrewv5/Downloads/FinalProject/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
 >>>>>>> b33b18c... added p1
+=======
+ <HintPath>/Users/jamesm12/Desktop/Final-Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+>>>>>>> 4606350... refactored start screen
+=======
+ <HintPath>/Users/andrewv5/Downloads/FinalProject/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+>>>>>>> 28ca959... test commit
+=======
+ <HintPath>/Users/jamesm12/Desktop/Final-Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+>>>>>>> 1cd1462... fixed stuff
+=======
+ <HintPath>/Users/andrewv5/Downloads/FinalProject/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+>>>>>>> ff9463f... dsfds
+=======
+ <HintPath>/Users/jamesm12/Desktop/Final-Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+>>>>>>> 283e90f... fwerer
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Users/andrewv5/Downloads/FinalProject/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/Users/jamesm12/Desktop/Final-Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>/Users/andrewv5/Downloads/FinalProject/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>/Users/jamesm12/Desktop/Final-Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
  <HintPath>/Users/jamesm12/Desktop/Final-Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
 =======
  <HintPath>/Users/andrewv5/Downloads/FinalProject/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
 >>>>>>> b33b18c... added p1
+=======
+ <HintPath>/Users/jamesm12/Desktop/Final-Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+>>>>>>> 4606350... refactored start screen
+=======
+ <HintPath>/Users/andrewv5/Downloads/FinalProject/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+>>>>>>> 28ca959... test commit
+=======
+ <HintPath>/Users/jamesm12/Desktop/Final-Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+>>>>>>> 1cd1462... fixed stuff
+=======
+ <HintPath>/Users/andrewv5/Downloads/FinalProject/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+>>>>>>> ff9463f... dsfds
+=======
+ <HintPath>/Users/jamesm12/Desktop/Final-Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+>>>>>>> 283e90f... fwerer
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -305,16 +365,50 @@
  </Reference>
  <Reference Include="UnityEngine.Analytics">
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
  <HintPath>/Users/jamesm12/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.StandardEvents">
  <HintPath>/Users/jamesm12/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
 =======
+=======
+>>>>>>> 28ca959... test commit
  <HintPath>/Users/andrewv5/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.StandardEvents">
  <HintPath>/Users/andrewv5/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+<<<<<<< HEAD
 >>>>>>> b33b18c... added p1
+=======
+ <HintPath>/Users/jamesm12/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.StandardEvents">
+ <HintPath>/Users/jamesm12/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+>>>>>>> 4606350... refactored start screen
+=======
+>>>>>>> 28ca959... test commit
+=======
+ <HintPath>/Users/jamesm12/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.StandardEvents">
+ <HintPath>/Users/jamesm12/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+>>>>>>> 1cd1462... fixed stuff
+=======
+ <HintPath>/Users/andrewv5/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.StandardEvents">
+ <HintPath>/Users/andrewv5/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+>>>>>>> ff9463f... dsfds
+=======
+ <HintPath>/Users/jamesm12/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.StandardEvents">
+ <HintPath>/Users/jamesm12/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+>>>>>>> 283e90f... fwerer
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>
