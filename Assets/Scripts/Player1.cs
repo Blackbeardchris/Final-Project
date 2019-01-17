@@ -12,7 +12,13 @@ public class Player1 : MonoBehaviour {
 	//cache refs
 	GameStatus theGameStatus;
 	Ball theBall;
-	
+
+
+    // animation thingys
+    public Animator animator;
+    float horizontalMove = 0f;
+    public float runSpeed = 40f;
+    public SpriteRenderer mySpriteRenderer;
 	
 
 	// Use this for initialization
@@ -29,7 +35,10 @@ public class Player1 : MonoBehaviour {
 void Update()
 {
    Vector3 direction = CalculateDirection();
+        horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
+        animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
    transform.Translate(direction * MovementSpeed * Time.deltaTime);
+
 }
 	public Vector3 CalculateDirection()
 {
@@ -45,7 +54,7 @@ void Update()
    if (Input.GetKey(KeyCode.S))
    {
      direction.y -= 1.0f;
-   }
+        }
    if (Input.GetKey(KeyCode.D))
    {
      direction.x += 1.0f;
@@ -56,4 +65,3 @@ void Update()
 
 }
 //just to push
-//test
