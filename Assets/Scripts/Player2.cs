@@ -11,7 +11,7 @@ public class Player2 : MonoBehaviour {
 
 	//cache refs
 	GameStatus theGameStatus;
-	Ball theBall;
+
 	
 	
 
@@ -19,7 +19,6 @@ public class Player2 : MonoBehaviour {
 	void Start () {
 		
 		theGameStatus = FindObjectOfType<GameStatus>();
-		theBall = FindObjectOfType<Ball>();
 	}
 	
 	// Update is called once per frame

@@ -20,7 +20,7 @@ public class Player1 : MonoBehaviour {
 
 	//cache refs
 	GameStatus theGameStatus;
-	Ball theBall;
+
 
 
     // animation thingys
